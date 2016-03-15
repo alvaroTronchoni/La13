@@ -1,0 +1,10 @@
+<resources>
+    <!-- APLICACION -->
+    <string name="app_name">La13</string>
+
+    <!-- PANTALLA DE LOGIN -->
+    <string name="usuario">NOMBRE DE USUARIO</string>
+    <string name="password">CONTRASEÑA</string>
+    <string name="inicioSesion">INICIAR SESION</string>
+    <string name="registrarse">REGISTRARSE</string>
+</resources>
